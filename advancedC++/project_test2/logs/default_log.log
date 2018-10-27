@@ -1,0 +1,82 @@
+
+2018-04-16 19:02:57.992  14413   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 19:03:08.326  14435   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 19:06:30.335  14560   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 19:06:30.388  14560  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 19:07:18.797  14589   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 19:07:18.998  14589  25 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 19:17:05.412  14758   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 19:17:05.529  14758  25 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 22:39:07.247  2595   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 22:39:07.260  2595  23 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 22:40:22.935  2656   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 22:59:33.027  3632   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 22:59:33.103  3632  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:02:54.636  3772   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:02:54.644  3772  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:03:23.045  3815   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:04:19.607  3859   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:06:38.405  3908   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:07:04.463  3912   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:08:30.054  3970   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:08:35.510  3982   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:10:13.487  4008   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:10:13.500  4008  23 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:12:09.683  4067   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:12:09.773  4067  25 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:13:47.232  4184   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:13:47.323  4184  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:25:55.136  4415   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:25:55.156  4415  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:26:32.776  4441   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:26:32.827  4441  22 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-16 23:34:20.262  4441  22 T sql_dblog Run@DBLogLib.cpp:170 DB logger's OFF
+
+2018-04-16 23:34:20.290  4441   1 F default ~Zlog@zlog4cpp.cpp:60 Log finished.
+
+2018-04-16 23:34:24.375  5113   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-16 23:34:24.483  5113  24 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-17 00:01:50.889  5113  24 T sql_dblog Run@DBLogLib.cpp:170 DB logger's OFF
+
+2018-04-17 00:01:50.904  5113   1 F default ~Zlog@zlog4cpp.cpp:60 Log finished.
+
+2018-04-17 09:27:02.307  12793   1 F default Zlog@zlog4cpp.cpp:53 Log started!
+
+2018-04-17 09:27:02.354  12793  24 T sql_dblog Run@DBLogLib.cpp:92 DB logger's ON
+
+2018-04-17 09:33:47.869  12793  24 T sql_dblog Run@DBLogLib.cpp:170 DB logger's OFF
+
+2018-04-17 09:33:47.870  12793   1 F default ~Zlog@zlog4cpp.cpp:60 Log finished.

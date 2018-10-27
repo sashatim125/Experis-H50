@@ -1,0 +1,36 @@
+
+2018-04-21 20:00:27.911  8299   1 F hvac_log Zlog@zlog4cpp.cpp:54 Log started!
+
+2018-04-21 20:00:27.917  8299  14 T hvac-a-1 Run@PhillipsControllersLib.cpp:86 controller's ON
+
+2018-04-21 20:00:39.917  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:39.917  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:39.917 ;topic: ambient_temp;floor: 1, room: room_1_a ;payload: 24.
+
+2018-04-21 20:00:45.211  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:45.211  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:45.210 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.019  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:47.019  8299   7 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:47.019 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.587  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:47.587  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:47.587 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.139  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:48.139  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:48.139 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.658  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:48.658  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:48.658 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:50.919  8299  14 T hvac-a-1 Run@PhillipsControllersLib.cpp:104 controller's OFF
+
+2018-04-21 20:00:51.917  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:119 new event received
+
+2018-04-21 20:00:51.917  8299   8 T hvac-a-1 ReceiveEvent@PhillipsControllersLib.cpp:131 timestamp: 2018-04-21 20:00:51.917 ;topic: ambient_temp;floor: 1, room: room_1_a ;payload: 49.
+
+2018-04-21 20:00:51.918  8299   1 F hvac_log ~Zlog@zlog4cpp.cpp:61 Log finished.

@@ -1,0 +1,20 @@
+
+2018-04-21 20:00:27.911  8299   1 F default Zlog@zlog4cpp.cpp:54 Log started!
+
+2018-04-21 20:00:27.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:83 sensor's ON
+
+2018-04-21 20:00:27.917  8299  16 T sql_dblog Run@DBLogLib.cpp:94 DB logger's ON
+
+2018-04-21 20:00:39.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:105 new event was sent
+
+2018-04-21 20:00:39.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:106 timestamp: 2018-04-21 20:00:39.917 ;topic: ambient_temp;floor: 1, room: room_1_a ;payload: 24.
+
+2018-04-21 20:00:50.770  8299  16 T sql_dblog Run@DBLogLib.cpp:172 DB logger's OFF
+
+2018-04-21 20:00:51.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:105 new event was sent
+
+2018-04-21 20:00:51.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:106 timestamp: 2018-04-21 20:00:51.917 ;topic: ambient_temp;floor: 1, room: room_1_a ;payload: 49.
+
+2018-04-21 20:00:51.917  8299  12 T Temperature-1-a Run@LgSensorsLib.cpp:112 sensor's OFF
+
+2018-04-21 20:00:51.918  8299   1 F default ~Zlog@zlog4cpp.cpp:61 Log finished.

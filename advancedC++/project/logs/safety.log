@@ -1,0 +1,52 @@
+
+2018-04-21 20:00:27.911  8299   1 F safety Zlog@zlog4cpp.cpp:54 Log started!
+
+2018-04-21 20:00:27.917  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:207 sensor's ON
+
+2018-04-21 20:00:27.917  8299  15 T sprinkler-1-a Run@PhillipsControllersLib.cpp:197 controller's ON
+
+2018-04-21 20:00:45.210  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:230 new event was sent
+
+2018-04-21 20:00:45.211  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:231 timestamp: 2018-04-21 20:00:45.210 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:45.211  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:230 new event received
+
+2018-04-21 20:00:45.211  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:242 timestamp: 2018-04-21 20:00:45.210 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.019  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:230 new event was sent
+
+2018-04-21 20:00:47.019  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:230 new event received
+
+2018-04-21 20:00:47.019  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:242 timestamp: 2018-04-21 20:00:47.019 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.020  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:231 timestamp: 2018-04-21 20:00:47.019 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.587  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:230 new event was sent
+
+2018-04-21 20:00:47.587  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:230 new event received
+
+2018-04-21 20:00:47.587  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:231 timestamp: 2018-04-21 20:00:47.587 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:47.587  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:242 timestamp: 2018-04-21 20:00:47.587 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.139  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:230 new event was sent
+
+2018-04-21 20:00:48.139  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:231 timestamp: 2018-04-21 20:00:48.139 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.139  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:230 new event received
+
+2018-04-21 20:00:48.139  8299   7 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:242 timestamp: 2018-04-21 20:00:48.139 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.658  8299   8 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:230 new event received
+
+2018-04-21 20:00:48.658  8299   8 T sprinkler-1-a ReceiveEvent@PhillipsControllersLib.cpp:242 timestamp: 2018-04-21 20:00:48.658 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:48.658  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:230 new event was sent
+
+2018-04-21 20:00:48.658  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:231 timestamp: 2018-04-21 20:00:48.658 ;topic: Fire_Detected;floor: 1, room: room_1_a ;payload: URGENT!!!.
+
+2018-04-21 20:00:50.770  8299  13 T fire-drill-test Run@LgSensorsLib.cpp:238 sensor's OFF
+
+2018-04-21 20:00:50.919  8299  15 T sprinkler-1-a Run@PhillipsControllersLib.cpp:215 controller's OFF
+
+2018-04-21 20:00:51.918  8299   1 F safety ~Zlog@zlog4cpp.cpp:61 Log finished.
